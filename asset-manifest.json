@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chessboard/static/css/main.073c9b0a.css",
+    "main.js": "/Chessboard/static/js/main.6f4ca952.js",
+    "static/js/787.93d3c0b5.chunk.js": "/Chessboard/static/js/787.93d3c0b5.chunk.js",
+    "index.html": "/Chessboard/index.html",
+    "main.073c9b0a.css.map": "/Chessboard/static/css/main.073c9b0a.css.map",
+    "main.6f4ca952.js.map": "/Chessboard/static/js/main.6f4ca952.js.map",
+    "787.93d3c0b5.chunk.js.map": "/Chessboard/static/js/787.93d3c0b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6f4ca952.js"
+  ]
+}
